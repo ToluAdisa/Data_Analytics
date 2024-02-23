@@ -6,3 +6,11 @@
 **Description**: This project just helps to point out alternative selling opportunities that can be explored by various banks in UK.
 
 ![Dashboard](dashboard.PNG)
+
+# Project 2
+
+**Title**: [Adidas  Interactive Sales Board](https://toluadisa.github.io/Data_Analytics/)
+
+**Description**: This project provides a deep insight into Adidas profitability across their different clothing categories globally.
+
+![DashboardE](DashboardE.PNG)
